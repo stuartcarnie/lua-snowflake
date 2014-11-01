@@ -7,7 +7,7 @@ source = {
 }
 
 description = {
-	summary = "A implementation of a distributed ID generator, similar to Snowflake by Twitter",
+	summary = "An implementation of a distributed ID generator, similar to Snowflake by Twitter",
 	homepage = "http://github.com/stuartcarnie/lua-snowflake",
 	license = "MIT",
 	maintainer = "Stuart Carnie",
